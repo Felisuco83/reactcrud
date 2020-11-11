@@ -45,7 +45,7 @@ export default class InsertarHospital extends Component {
     }
     return (
       <div>
-        <h1>Nuevo departamento</h1>
+        <h1>Nuevo hospital</h1>
         <form onSubmit={this.nuevoHospital}>
           <label>Id: </label>
           <input

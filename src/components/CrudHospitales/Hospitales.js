@@ -23,7 +23,7 @@ export default class Hospitales extends Component {
   render() {
     return (
       <div>
-        <h1>Departamentos</h1>
+        <h1>Hospitales</h1>
         <table className="table table-bordered">
           <thead>
             <tr>
